@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "hai hoang",
+      "username": "haih19",
+      "email": "shoeshop@gmail.com",
+      "password": "a",
+      "id": 1
+    },
+    {
+      "name": "van tung",
+      "username": "tung123",
+      "email": "tung123@gmail.com",
+      "password": "a",
+      "id": 2
+    },
+    {
+      "name": "huu duy",
+      "username": "duy1",
+      "email": "duy@gmail.com",
+      "password": "a",
+      "id": 3
+    }
+  ]
+}
