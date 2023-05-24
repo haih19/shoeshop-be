@@ -2,31 +2,31 @@
   "categories": [
     {
       "id": 1,
-      "categoryName": "Basketball"
+      "category": "Basketball"
     },
     {
       "id": 2,
-      "categoryName": "Football"
+      "category": "Football"
     },
     {
       "id": 3,
-      "categoryName": "Mountain Biking"
+      "category": "Mountain Biking"
     },
     {
       "id": 4,
-      "categoryName": "Outdoor & Hiking"
+      "category": "Outdoor & Hiking"
     },
     {
       "id": 5,
-      "categoryName": "Running"
+      "category": "Running"
     },
     {
       "id": 6,
-      "categoryName": "Sneakers"
+      "category": "Sneakers"
     },
     {
       "id": 7,
-      "categoryName": "Tennis"
+      "category": "Tennis"
     }
   ],
   "products": [
